@@ -4,7 +4,7 @@ KuroDaze builds efficient software within the Linux ecosystem, lean on resources
 
 **[togewire](https://github.com/kurodaze/togewire)**: Self-hosted Spotify listen-along. Archive what you play, or share a live stream anyone can join from a browser, no Premium required.
 
-**[togematch](https://github.com/kurodaze/togematch)**: Finds a track's official audio upload on YouTube from a Spotify link or a search, preferring it over music videos, live versions and re-uploads. A Rust library, plus an HTTP API and CLI for the local network.
+**[togematch](https://github.com/kurodaze/togematch)**: Official audio matcher for YouTube. Resolves Spotify tracks and searches to their licensed master on YouTube, filtering out music videos, live bootlegs, and re-uploads. Includes a Rust library, local HTTP API, and CLI.
 
 **[musicart](https://github.com/kurodaze/musicart)**: Self-hosted Discord music bot. Runs several bots in one process and plays YouTube and Spotify links in the best audio quality available, with EQ presets or your own EQ.
 
