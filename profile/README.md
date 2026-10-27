@@ -8,7 +8,7 @@ KuroDaze builds efficient software within the Linux ecosystem, lean on resources
 
 **[musicart](https://github.com/kurodaze/musicart)**: Self-hosted Discord music bot. Runs several bots in one process and plays YouTube and Spotify links in the best audio quality available, with EQ presets or your own EQ.
 
-**[KDNX Jellyfin OIDC](https://github.com/kurodaze/kdnx-jellyfin-oidc)**: Single sign-on for Jellyfin through the KDNX OIDC provider, including session lifetime enforcement and client app support.
+**[pastry](https://github.com/kurodaze/gnome-shell-extension-pastry)**: A clipboard manager for GNOME Shell, written in TypeScript. Supports GNOME 50 and later.
 
 ## Community
 
