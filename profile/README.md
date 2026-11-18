@@ -1,4 +1,4 @@
-KuroDaze builds efficient software within the Linux ecosystem, lean on resources and a easy to use.
+KuroDaze builds efficient software within the Linux ecosystem, lean on resources and easy to use.
 
 ## Projects
 
